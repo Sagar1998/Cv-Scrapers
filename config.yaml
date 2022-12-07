@@ -1,0 +1,19 @@
+admins:
+- jsmith
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    jsmith:
+      email: siddharthachaki02@gmail.com
+      name: John Smith
+      password: $2b$12$/AOW6DDig61ImUm9A69Io.gcpv1y8ynSvn85XBy7DKRHxxvaJ9YO2
+    rbriggs:
+      email: siddharthachaki02@gmail.com
+      name: Rebecca Briggs
+      password: $2b$12$k50p7GnX8LiN5/wUgFppo.yAqF2HpGVSHkHuWCsddUVbLfRtXdSM6
+preauthorized:
+  emails:
+  - siddharthachaki02@gmail.com
