@@ -1,4 +1,5 @@
 streamlit-authenticator
+mammoth
 altair==4.1.0
 argcomplete==1.10.0
 argon2-cffi==20.1.0
